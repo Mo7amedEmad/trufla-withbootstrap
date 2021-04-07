@@ -1,0 +1,19 @@
+{
+  "name": "interviewtask",
+  "version": "1.0.0",
+  "description": "this is task for Trufla",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Trufla"
+  ],
+  "author": "mohamed Emad",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "font-awesome": "^4.7.0",
+    "sass": "^1.32.8"
+  }
+}

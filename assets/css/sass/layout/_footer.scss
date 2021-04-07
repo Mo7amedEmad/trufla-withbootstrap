@@ -1,0 +1,15 @@
+/******** start of the footer**********/ 
+.footer {
+    background-color: #eee;
+    text-align: center;
+    padding: 10px 0px;
+    line-height: 43px;
+    p{
+        margin-bottom: 0px;
+        a{
+           color: $mainColor; 
+           text-decoration: none;
+        } 
+    }
+}
+/******** end of the footer**********/ 

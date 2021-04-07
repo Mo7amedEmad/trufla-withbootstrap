@@ -1,0 +1,10 @@
+@import 'sass/helpers/variables';
+@import 'sass/helpers/mixins';
+@import "../../node_modules/font-awesome/scss/font-awesome.scss";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+/*main layout*/
+@import 'sass/layout/header';
+@import 'sass/pages/home';
+@import 'sass/layout/footer';
